@@ -27,8 +27,11 @@ Analysis Techniques
 RESULTS
 
 The top genes with significant expression changes (high positive fold change and low p-values) that could serve as potential biomarkers are:
+
 RPS6 (Fold Change: 5.0, P-value: 0.00010) – As a ribosomal protein, it plays a central role in protein synthesis, and its high expression suggests involvement in cellular growth or response processes.
+
 CD74 (Fold Change: 4.5, P-value: 0.02300) – An MHC class II chaperone, involved in the immune response. Its strong expression indicates a potential immune response or inflammatory marker.
+
 FN1 (Fold Change: 4.0, P-value: 0.00001) – Involved in cell adhesion, suggesting it may play a role in structural or metastatic processes.
 
 
